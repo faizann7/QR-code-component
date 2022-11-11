@@ -20,8 +20,8 @@ QR code component.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/faizann7/QR-code-component](https://your-solution-url.com)
+- Live Site URL: [https://faizann7.github.io/QR-code-component/](https://your-live-site-url.com)
 
 ## My process
 
@@ -33,6 +33,6 @@ QR code component.
 
 ## Author
 
-- Website - [Add your name here](https://faizann7.github.io/portfolio/)
+- Website - [Muhammad Fazian](https://faizann7.github.io/portfolio/)
 
 ## Acknowledgments
