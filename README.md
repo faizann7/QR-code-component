@@ -20,7 +20,7 @@ QR code component.
 
 ### Links
 
-- Solution URL: [QR Component Repo]([https://your-solution-url.com](https://github.com/faizann7/QR-code-component))
+- Solution URL: [QR Component Repo](https://github.com/faizann7/QR-code-component)
 - Live Site URL: [QR Component](https://faizann7.github.io/QR-code-component/)
 
 ## My process
